@@ -1,4 +1,4 @@
-import Dog from '../index.ts';
+import Dog from '../index';
 describe('dog', () => {
     test('dog should bark', () => {
         const dog = new Dog;
